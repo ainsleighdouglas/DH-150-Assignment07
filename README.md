@@ -10,6 +10,7 @@ Assignment 7 goes into the process of a high fidelity prototype. At this point n
 I wanted to take a unique approach to streaming platforms. Normally streaming platforms are set on dark screens to set the ambience of night and relaxation. I attempted to choose color palettes that created the same ambiance but with lighter colors. The user should then feel relaxed but refreshed. I also followed current design trends around mental health, light colors and simple shapes. 
 
 ## Screen designs:
+https://xd.adobe.com/view/978c6ccb-f665-4482-9b91-80d0e579f15d-c2df/screen/90cf2694-7391-4a4b-ab5b-651f6fced040
 
 <img src="Home – 1.png"> <img src="Drop down menu – 2.png"> <img src="Star – 1.png">
 
