@@ -11,7 +11,7 @@ I wanted to take a unique approach to streaming platforms. Normally streaming pl
 
 ## Screen designs:
 
-<img src="Home - 1.png"> 
+<img src="Home – 1.png"> 
 <img src="Drop down menu - 2.png"> 
 <img src="Star - 1.png">
 
