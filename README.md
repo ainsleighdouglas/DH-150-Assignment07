@@ -4,6 +4,9 @@
 Assignment 7 goes into the process of a high fidelity prototype. At this point navigation and interaction with the site should be fairly set so now the designer has the opportunity to add flare. With high fidelity prototyping the designer can begin choosing color and type while keeping accessibility and visual compatibility in mind. 
 
 ## Potential style guides:
+
+<img src="Untitled_Artwork 98.png">
+
 I wanted to take a unique approach to streaming platforms. Normally streaming platforms are set on dark screens to set the ambience of night and relaxation. I attempted to choose color palettes that created the same ambiance but with lighter colors. The user should then feel relaxed but refreshed. I also followed current design trends around mental health, light colors and simple shapes. 
 
 ## Screen designs:
