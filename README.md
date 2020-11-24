@@ -16,7 +16,7 @@ I wanted to take a unique approach to streaming platforms. Normally streaming pl
 I pursued this style guide because it resonated the most with me but also had the most neutral tones. The idea is that anyone would feel compatible with this site and would not be put off by the color combinations. Additionally I have to accommodate inconsistent images associated with the movies shows. 
 
 ## Impression test:
-The user….
+The user thought….
 
 ## Accessibility color check:
 Light text on dark background - White (#FFFFFF) on dark blue (#7A8F99)
