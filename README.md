@@ -10,6 +10,9 @@ Assignment 7 goes into the process of a high fidelity prototype. At this point n
 I wanted to take a unique approach to streaming platforms. Normally streaming platforms are set on dark screens to set the ambience of night and relaxation. I attempted to choose color palettes that created the same ambiance but with lighter colors. The user should then feel relaxed but refreshed. I also followed current design trends around mental health, light colors and simple shapes. 
 
 ## Screen designs:
+
+<img src="Home - 1.png"> <img src="Drop down menu - 2.png"> <img src="Star - 1.png">
+
 I pursued this style guide because it resonated the most with me but also had the most neutral tones. The idea is that anyone would feel compatible with this site and would not be put off by the color combinations. Additionally I have to accommodate inconsistent images associated with the movies shows. 
 
 ## Impression test:
