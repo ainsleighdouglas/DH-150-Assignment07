@@ -5,7 +5,7 @@ Assignment 7 goes into the process of a high fidelity prototype. At this point n
 
 ## Potential style guides:
 
-<img src="Untitled_Artwork 98.png">
+<img src="styleguide-01.png">
 
 I wanted to take a unique approach to streaming platforms. Normally streaming platforms are set on dark screens to set the ambience of night and relaxation. I attempted to choose color palettes that created the same ambiance but with lighter colors. The user should then feel relaxed but refreshed. I also followed current design trends around mental health, light colors and simple shapes. 
 
