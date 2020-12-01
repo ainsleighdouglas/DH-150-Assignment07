@@ -28,15 +28,15 @@ I pursued this style guide because it resonated the most with me but also had th
 
 ### Accessibility color check:
 Light text on dark background - White (#FFFFFF) on dark blue (#7A8F99)
-3.37 - Passes AA for large text (above 18pt or bold above 14pt)
+- 3.37 - Passes AA for large text (above 18pt or bold above 14pt)
 - this choice can be used for large text likes titles and decorative type but might be eligible for dense/packed information
 
 Dark text on light background - dark purple (#503957) on light beige (#FFF8ED)
-9.64 - Passes AAA level for any size text
+- 9.64 - Passes AAA level for any size text
 - This choice was extremely successful legibility but since the type is so dark I might just be safe and change the type to black
 
 Dark text on light background - grey (#707070) on light beige (#FFF8ED)
-4.69 - Passes AA level for any size text and AAA for large text (above 18pt or bold above 14pt)
+- 4.69 - Passes AA level for any size text and AAA for large text (above 18pt or bold above 14pt)
 - Overall this choice is solid however as a designer I think I could come up with a better color combination
 
 ### Impression test:
@@ -53,5 +53,16 @@ https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5
 
 <img src="desing-proto2-02.png">
 <img src="xd-proto2-02.png">
+
+### Accessibility color check:
+
+Light text on dark background - White on dark grey(#272727) 
+- 14.93 - Passes AAA level for any size text
+
+Grey text on dark background - grey(#A7A7A7) on dark grey(#272727) 
+- 6.2 - Passes AA level for any size text and AAA for large text (above 18pt or bold above 14pt)
+
+white on lighter back ground - white on peach(#DC5C56)
+- 3.67 - Passes AA for large text (above 18pt or bold above 14pt)
 
 
