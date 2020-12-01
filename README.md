@@ -20,7 +20,7 @@ I wanted to take a unique approach to streaming platforms. Normally streaming pl
 pages 21-23 -
 https://xd.adobe.com/view/978c6ccb-f665-4482-9b91-80d0e579f15d-c2df/screen/90cf2694-7391-4a4b-ab5b-651f6fced040
 
-<img src="Home – 1.png"> <img src="Drop down menu – 2.png"> <img src="Star – 1.png">
+<img src="design-proto1-02.png">
 
 I pursued this style guide because it resonated the most with me but also had the most neutral tones. The idea is that anyone would feel compatible with this site and would not be put off by the color combinations. Additionally I have to accommodate inconsistent images associated with the movies shows. 
 
