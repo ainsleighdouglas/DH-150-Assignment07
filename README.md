@@ -67,3 +67,8 @@ white on lighter back ground - white on peach(#DC5C56)
 
 76 - Accessibility score
 I think this can be imporved byt making all the text white on the dark grey, all large type is mainly decorative so I think it can stay the same
+
+### Cognitive walkthrough:
+
+## Reflection
+
