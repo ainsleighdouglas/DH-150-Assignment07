@@ -43,5 +43,5 @@ https://drive.google.com/drive/folders/1Oyl6CizGKUlCM4_WXxi9MnpOiN8jd4jH?usp=sha
 I tested two users, male and female, who reacted similarly showing that my site had specific and clear qualities. The users reacted in a favorable but an unexpected way to my overall design choice. Both users were clear that the site was for streaming movies/shows and that it was simple and easy to use. However, the users inferred that the site was for younger audiences, specifically children, instead of a middle aged audience. This was unexpected but I can see how my color choices may not give off a mature look and feel. 
 
 ## Prototype 2
-
+  
 After the impression test I decided I wanted to change the look completely to fit the audience better. I chose a dark background to create a cool ambience when one is watching a show and I added color pop to keep it fun.
