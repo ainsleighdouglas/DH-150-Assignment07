@@ -65,4 +65,5 @@ Grey text on dark background - grey(#A7A7A7) on dark grey(#272727)
 white on lighter back ground - white on peach(#DC5C56)
 - 3.67 - Passes AA for large text (above 18pt or bold above 14pt)
 
-
+76 - Accessibility score
+I think this can be imporved byt making all the text white on the dark grey, all large type is mainly decorative so I think it can stay the same
