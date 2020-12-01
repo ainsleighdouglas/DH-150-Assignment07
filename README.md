@@ -69,6 +69,8 @@ white on lighter back ground - white on peach(#DC5C56)
 I think this can be imporved byt making all the text white on the dark grey, all large type is mainly decorative so I think it can stay the same
 
 ### Cognitive walkthrough:
+https://drive.google.com/file/d/10Dp_X5tY0dO2F5UnSDbhwgehUzQ-58nM/view?usp=sharing
 
 ## Reflection
+Overall this process was super beneficial in finalizing my design, the best way to work out the kinks is by creating prototypes. The cognitive walkthrough left me with some considerable insights that will need adjusting. The user had no major issues navigating through the space even if icons weren’t familiar to them but they still had suggestions for making it more fluid. One of the simplest changes is adjusting the home icon because it was noted that it looks like an up arrow. Additionally, they stated some of my interactions flow differently than many streaming platforms, which was not a negative thing but the users will have to relearn in some cases.They also suggested highlighting the unique features a little more prominently, for example the messaging forum. To add, they suggested having the share feature within the video viewing window so they could share moments in shows/movies without having to exit the program. However, in the end the user was able to recognize the key elements I was trying to highlight with this design. They were able to correctly identify that this platform is taking a social media approach to streaming and that the content of each page was light/not overwhelming. 
 
