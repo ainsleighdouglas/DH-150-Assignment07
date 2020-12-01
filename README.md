@@ -52,3 +52,6 @@ After the impression test I decided I wanted to change the look completely to fi
 https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off
 
 <img src="desing-proto2-02.png">
+<img src="xd-proto2-02.png">
+
+
