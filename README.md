@@ -3,6 +3,12 @@
 ## Introduction:
 Assignment 7 goes into the process of a high fidelity prototype. At this point navigation and interaction with the site should be fairly set so now the designer has the opportunity to add flare. With high fidelity prototyping the designer can begin choosing color and type while keeping accessibility and visual compatibility in mind. 
 
+### Tasks
+1. Personalize home screen in settings and return to home
+2. Access the horror genre and select a show
+3. Expand the recently watched menu, switch to favorites in the toolbar and “share a show”
+4. Access “your feed” through the live icon in the toolbar and start watching a show
+
 ## Potential style guides:
 
 <img src="styleguide-01.png">
