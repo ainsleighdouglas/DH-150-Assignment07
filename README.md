@@ -17,6 +17,8 @@ I wanted to take a unique approach to streaming platforms. Normally streaming pl
 
 ## Prototype 1
 ### Screen designs:
+
+#### XD link:
 pages 21-23 -
 https://xd.adobe.com/view/978c6ccb-f665-4482-9b91-80d0e579f15d-c2df/screen/90cf2694-7391-4a4b-ab5b-651f6fced040
 
@@ -45,3 +47,8 @@ I tested two users, male and female, who reacted similarly showing that my site 
 ## Prototype 2
   
 After the impression test I decided I wanted to change the look completely to fit the audience better. I chose a dark background to create a cool ambience when one is watching a show and I added color pop to keep it fun.
+
+#### XD interactive link: 
+https://xd.adobe.com/view/b19ca6df-d5c7-4363-a9e1-d46259e1f1d6-e4cf/screen/460c5512-3c0f-4407-817a-9e3b80a3569c?fullscreen&hints=off
+
+<img src="desing-proto2-02.png">
